@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lasindu-dilsara-perera-311bb7185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lasindu-dilsara-perera-311bb7185/" height="30" width="40" /></a>
-<a href="https://instagram.com/ld_pereraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ld_pereraz" height="30" width="40" /></a>
+<a href="https://instagram.com/ld._pereraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ld_pereraz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
